@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![Snake animation]
+![Snake animation](https://github.com/cleversonmvieira/cleversonmvieira/blob/output/github-contribution-grid-snake.svg)
